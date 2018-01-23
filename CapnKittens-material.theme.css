@@ -1,14 +1,8 @@
 //META{"name":"Material Theme","description":"A theme based on Google's Material Design","author":"CapnKitten","version":"1.0"}*//
 
-/*:root {
-	--version: "Material Theme v1.0";
-	--accent-color: #3f51b5;
-	--accent-rgb: rgba(39,147,230,0.3);
-	--notification-color: #999;
-}*/
-
 :root {
   --accent-color: #3f51b5;
+  --accent-rgb: rgba(39,147,230,0.3);
 }
 
 ::selection {
@@ -352,7 +346,8 @@ body,
 .emojiPicker-3g68GS .search-bar.search-bar-light input,
 .messages-popout .message-group .action-buttons,
 .search-results-wrap .search-result .hit,
-.buttonLinkLink-PqcWoA {
+.buttonLinkLink-PqcWoA,
+.theme-dark .buttonPrimaryLinkDefault-1PQflF {
 	box-shadow: none !important;
 }
 
