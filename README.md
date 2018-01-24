@@ -1,6 +1,6 @@
 # CapnKitten's Discord Material Design Theme
 
-Current version: v1.0
+Current version: v1.1
 
 ## Previews
 
@@ -36,3 +36,12 @@ Current version: v1.0
 #### LFG
 
 ![discord-006](https://user-images.githubusercontent.com/4013216/35309040-737da14c-0078-11e8-963d-2cff02b3c251.png)
+
+## Changelog
+
+#### v1.1
+* Video and audio calling styled
+* Screensharing styled
+
+#### v1.0
+* Initial release
