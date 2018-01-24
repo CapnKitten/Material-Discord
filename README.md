@@ -4,7 +4,7 @@ Current version: v1.0
 
 ## Previews
 
-(Animations in the GIFs are slower than they appear)
+(Animations in the GIFs are sped up)
 #### Changing status
 
 ![discord-status](https://user-images.githubusercontent.com/4013216/35309043-79570ac2-0078-11e8-87fd-98a18a178050.gif)
