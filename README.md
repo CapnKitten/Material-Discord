@@ -8,6 +8,10 @@ Current version: v1.0
 
 ![discord-status](https://user-images.githubusercontent.com/4013216/35309043-79570ac2-0078-11e8-87fd-98a18a178050.gif)
 
+### Audio notification
+
+![discord-audio](https://user-images.githubusercontent.com/4013216/35309489-c7d6fe3a-007a-11e8-961a-6248231bca8b.gif)
+
 ### Main chat area
 
 ![discord-001](https://user-images.githubusercontent.com/4013216/35309006-50bd3b68-0078-11e8-9213-e94abe370dc8.png)
