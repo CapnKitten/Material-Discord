@@ -75,7 +75,8 @@
 .ui-standard-sidebar-view #editor-detached button,
 #bd-settingspane-container .bd-pfbtn,
 .theme-dark .buttonPrimaryOutlinedDefault--H0hhk,
-.theme-dark .buttonPrimaryOutlinedSubmitting-3m3eFx {
+.theme-dark .buttonPrimaryOutlinedSubmitting-3m3eFx,
+.noticeInfo-3v29SJ {
 	background: #3f51b5 !important;
 }
 
@@ -487,9 +488,10 @@ body,
  *
  */
 
-.noticeDefault-16Om2m {
+.noticeDefault-16Om2m,
+.noticeInfo-3v29SJ {
 	background: #3f51b5;
-	border-radius: 0;
+	border-radius: 0 !important;
 }
 
 .noticeDefault-16Om2m .button-2TvR03 {
@@ -1286,7 +1288,7 @@ body,
 }
 
 .guilds-wrapper .guilds {
-	margin: 8px 0 72px 0;
+	margin: 8px 0 68px 0;
 	padding: 0;
 }
 
@@ -1345,7 +1347,7 @@ body,
 .guilds-wrapper .guilds .guild.guilds-add {
 	position: fixed !important;
 	width: 70px;
-	height: 72px !important;
+	height: 68px !important;
 	bottom: 8px !important;
 	background: #212121;
 	border-radius: 0 !important;
@@ -1425,7 +1427,7 @@ body,
 }
 
 .unread-mentions-indicator-bottom {
-	bottom: 72px;
+	bottom: 68px;
 }
 
 /* SERVER LIST -> CREATE/JOIN SERVER */
@@ -1771,15 +1773,15 @@ body .Select-option:hover {
 }
 
 .embedVideoActionsInner-24mu2S {
-	width: 72px !important;
-	height: 72px !important;
+	width: 68px !important;
+	height: 68px !important;
 	background: transparent !important;
 	border-radius: 50% !important;
 }
 
 .embedVideoPlay-1r-B3h {
-	width: 72px !important;
-	height: 72px !important;
+	width: 68px !important;
+	height: 68px !important;
 	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSIgIHdpZHRoPSI3MiIgaGVpZ2h0PSI3MiIgdmlld0JveD0iMCAwIDI0IDI0Ij4NCiAgIDxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xMCwxNi41VjcuNUwxNiwxMk0xMiwyQTEwLDEwIDAgMCwwIDIsMTJBMTAsMTAgMCAwLDAgMTIsMjJBMTAsMTAgMCAwLDAgMjIsMTJBMTAsMTAgMCAwLDAgMTIsMloiIC8+DQo8L3N2Zz4=) no-repeat !important;
 	border-radius: 50% !important;
 }
@@ -1875,7 +1877,7 @@ body .Select-option:hover {
 }
 
 .channelTextArea-os01xC {
-	height: 72px;
+	height: 68px;
 	margin: 0;
 	padding: 0;
 }
@@ -1925,7 +1927,7 @@ body .Select-option:hover {
 /* CHAT FORM -> TYPING */
 
 .typing-3eiiL_ {
-	bottom: 72px;
+	bottom: 68px;
 	padding: 0 8px;
 	background: rgba(55,55,60,0.7) !important;
 	transition: 200ms ease-in-out;
@@ -2165,7 +2167,7 @@ body .Select-option:hover {
 
 .container-iksrDt {
 	position: relative;
-	height: 72px !important;
+	height: 68px !important;
 	top: 1px;
 	background: #181a1d;
 	z-index: 100 !important;
@@ -2178,13 +2180,13 @@ body .Select-option:hover {
 .menu-3BZuDT.alt-2vq4VR {
 	position: absolute;
 	width: 240px !important;
-	top: -78px !important;
+	top: -74px !important;
 	left: -10px !important;
 	padding: 0;
-	border-radius: 0;
+	border-radius: 0 !important;
 	box-shadow: none;
 	z-index: 99 !important;
-	animation: expand 250ms cubic-bezier(0.35,0.35,0,1);
+	animation: show-status 250ms cubic-bezier(0.35,0.35,0,1);
 }
 
 
@@ -2256,7 +2258,7 @@ body:active .menu-3BZuDT:not(:active) {
 	position: relative;
 	display: inline-block;
 	width: 60px;
-	height: 72px;
+	height: 68px;
 	vertical-align: top;
 	background: transparent;
 	overflow: hidden;
@@ -2518,7 +2520,7 @@ body:active .menu-3BZuDT:not(:active) {
 	}
 }
 
-@keyframes expand {
+@keyframes show-status {
 	from { transform: translateY(100%) translateX(0%) translateZ(0px); }
 }
 
