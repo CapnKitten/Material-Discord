@@ -815,11 +815,11 @@ body,
 }
 
 .theme-dark .itemSubMenu-3ZgIw- {
-	background: transparent url(/assets/1988164a7c55346d32117b151f4e319d.svg) no-repeat 155px 50% !important;
+	background: transparent url('https://discordapp.com/assets/1988164a7c55346d32117b151f4e319d.svg') no-repeat 155px 50% !important;
 }
 
 .theme-dark .itemSubMenu-3ZgIw-:hover{
-	background: rgba(255,255,255,0.1) url(/assets/e4afe52f6863408a35654a6e5fd69ba9.svg) no-repeat 155px 50% !important;
+	background: rgba(255,255,255,0.1) url('https://discordapp.com/assets/e4afe52f6863408a35654a6e5fd69ba9.svg') no-repeat 155px 50% !important;
 }
 
 
@@ -1035,7 +1035,7 @@ body,
 	right: 8px;
 	bottom: 8px;
 	border-radius: 50%;
-	background-image: url('/assets/4d254296157bb8927b7d53ed59beb0d8.svg');
+	background-image: url('https://discordapp.com/assets/4d254296157bb8927b7d53ed59beb0d8.svg');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 40%;
