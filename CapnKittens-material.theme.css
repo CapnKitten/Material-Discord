@@ -81,7 +81,8 @@
 .theme-dark .buttonPrimaryOutlinedDefault--H0hhk,
 .theme-dark .buttonPrimaryOutlinedSubmitting-3m3eFx,
 .noticeInfo-3v29SJ,
-.bd-modal-wrapper .footer button {
+.bd-modal-wrapper .footer button,
+.wanderingCubesItem-35kyMu {
 	background: var(--accent-color) !important;
 }
 
@@ -318,7 +319,8 @@ body,
 .switch-3lyafC.valueUnchecked-XR6AOk:after,
 .switch-3lyafC.valueChecked-3Bzkbm:after,
 .clipboardInputInner-oj8y-S .copy-2GnRyy,
-.bd-modal-wrapper .footer button {
+.bd-modal-wrapper .footer button,
+#pubslayer .bd-server-card.bd-server-card {
 	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
 }
 
@@ -422,7 +424,8 @@ body,
 .clipboardInputInner-oj8y-S .copy-2GnRyy,
 .theme-dark .incomingCallInner-1LQbjf,
 .selectorButtonSelected-3ApyX9,
-.imageSelected-1LY3bZ {
+.imageSelected-1LY3bZ,
+#pubslayer .bd-server-card.bd-server-card {
 	border-radius: 2px !important;
 }
 
@@ -606,7 +609,8 @@ body,
 .theme-dark .headerDefault-1ajMkj,
 .theme-dark .cardPrimaryOutline-2YyAz2,
 .bd-plugin-container,
-.bda-slist li {
+.bda-slist li,
+#pubslayer .bd-server-card.bd-server-card {
 	background: #1e2024;
 	border: none !important;
 }
@@ -815,11 +819,11 @@ body,
 }
 
 .theme-dark .itemSubMenu-3ZgIw- {
-	background: transparent url('https://discordapp.com/assets/1988164a7c55346d32117b151f4e319d.svg') no-repeat 155px 50% !important;
+	background: transparent url(https://discordapp.com/assets/1988164a7c55346d32117b151f4e319d.svg) no-repeat 155px 50% !important;
 }
 
 .theme-dark .itemSubMenu-3ZgIw-:hover{
-	background: rgba(255,255,255,0.1) url('https://discordapp.com/assets/e4afe52f6863408a35654a6e5fd69ba9.svg') no-repeat 155px 50% !important;
+	background: rgba(255,255,255,0.1) url(https://discordapp.com/assets/e4afe52f6863408a35654a6e5fd69ba9.svg) no-repeat 155px 50% !important;
 }
 
 
@@ -828,6 +832,50 @@ body,
  *	PUBLIC SERVERS
  *
  */
+
+#pubslayerroot .ui-standard-sidebar-view .sidebar-region .sidebar {
+	width: 100% !important;
+	padding: 0 !important
+}
+
+#pubslayerroot .ui-standard-sidebar-view .sidebar-region .sidebar .ui-tab-bar {
+	width: 218px !important;
+	margin: 0 0 0 104px !important;
+	padding: 60px 0 60px 26px !important;
+}
+
+#pubslayer .ui-tab-bar-header,
+#pubslayer .ui-tab-bar-item,
+#pubslayer .ui-tab-bar-separator,
+#pubslayer .ui-form-item {
+	width: 100% !important;
+}
+
+#pubslayer .ui-tab-bar-header {
+	padding: 6px 10px !important;
+	font-size: 12px !important;
+	line-height: 16px !important;
+	font-weight: 700 !important;
+	text-transform: uppercase !important;
+}
+
+#pubslayer .ui-standard-sidebar-view .content-column.default .content-column.default {
+	padding: 0 !important;
+}
+
+#pubslayer .bd-server-card {
+	margin: 16px 0 0 0 !important;
+	padding: 16px !important;
+	border: none !important;
+}
+
+#pubslayer .bd-server-card .bd-pubs-server-icon {
+	border-radius: 50% !important;
+}
+
+#pubslayer .bd-server-card.bd-server-card-pinned:after {
+	display: none !important
+}
 
 .ui-standard-sidebar-view .sidebar-region .scroller-wrap .scroller {
 	background: var(--main-color);
@@ -1524,18 +1572,6 @@ body,
 .icon-mr9wAc[name="Compose"] path {
 	stroke-width: 2 !important;
 }
-
-
-/*.friends-icon {
-	margin: 4px 0 0 0;
-	opacity: 0.8;
-	-webkit-mask-image: url(http://localhost/discord/assets/chat_bubble_24px.svg);
-	-webkit-mask-size: 50%;
-	-webkit-mask-position: center;
-	-webkit-mask-repeat: no-repeat;
-	background-color: #000;
-	background-image: none !important;
-}*/
 
 
 /*
