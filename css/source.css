@@ -6,6 +6,7 @@
 	--main-color: #16171a;
 	--popout-color: #202225;
 	--popout-alt: #2c2f33;
+	--server-bg: #232327;
 	--hover-color: rgba(255,255,255,0.05);
 }
 
@@ -103,9 +104,12 @@
 .guilds-wrapper .guilds .guild.selected .guild-inner,
 .switch-3lyafC.valueChecked-3Bzkbm:after,
 .checkbox .checkbox-inner input[type=checkbox]:checked+span,
+.containerDragAfter-3O-noP:before,
+.containerDragBefore-2hcouM:before,
+.containerDragAfter-3rB7mB:after,
+.containerDragBefore-12YyA9:before,
 .item-2zi_5J[style="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218); padding: 10px;"],
-.theme-dark .checkbox-1QwaS4[style="background-color: rgb(114, 137, 218); border-color: rgb(114, 137, 218);"],
-.message-group .comment .mention:hover {
+.theme-dark .checkbox-1QwaS4[style="background-color: rgb(114, 137, 218); border-color: rgb(114, 137, 218);"] {
 	background-color: var(--accent-color) !important;
 }
 
@@ -200,7 +204,10 @@ body,
 .private-channel-recipients-invite .body,
 #autocomplete-popout .autocomplete-scroller,
 #autocomplete-popout .scrollerWrap-2uBjct .scroller-fzNley::-webkit-scrollbar-track,
-.theme-dark .incomingCallInner-1LQbjf {
+.theme-dark .incomingCallInner-1LQbjf,
+.bda-dark #bda-qem,
+.bda-dark #bda-qem-favourite-container,
+.bda-dark #bda-qem-twitch-container {
 	background: var(--popout-alt) !important;
 }
 
@@ -312,8 +319,6 @@ body,
 .topSectionStreaming-3rIBIm .button-fb2MQS,
 .theme-dark .header-3lpf0u,
 .wrapperDefault-NeXRmD,
-.role-3rahR_,
-.role-3rahR_:before,
 .user-settings-games .not-detected, .user-settings-games .now-playing,
 .bd-plugin-container, .bda-slist li,
 .switch-3lyafC.valueUnchecked-XR6AOk:after,
@@ -1368,7 +1373,7 @@ body,
  */
 
 .guilds-wrapper {
-	background: #212121;
+	background: var(--server-bg);
 }
 
 .guilds-wrapper .guilds {
@@ -1393,21 +1398,28 @@ body,
 	overflow: visible !important;
 }
 
-.guilds-wrapper .guilds .guild:nth-child(2) {
+.guilds-wrapper .guilds #bd-pub-li.guild {
 	height: 30px !important;
 }
 
-.guilds-wrapper .guilds .guild:nth-child(2) .guild-inner {
+.guilds-wrapper .guilds #bd-pub-li.guild .guild-inner {
 	height: 20px !important;
 	border-radius: 0 !important;
 	background: transparent !important;
 }
 
-.guilds-wrapper .guilds .guild:nth-child(2):hover .guild-inner {
+.guilds-wrapper .guilds #bd-pub-li.guild .guild-inner #bd-pub-button {
+	font-size: 10px !important;
+	font-weight: 500 !important;
+	color: hsla(0,0%,100%,0.3) !important;
+	text-transform: uppercase !important;
+}
+
+.guilds-wrapper .guilds #bd-pub-li.guild:hover .guild-inner {
 	background: transparent !important;
 }
 
-.guilds-wrapper .guilds .guild:nth-child(2) .guild-inner a {
+.guilds-wrapper .guilds #bd-pub-li.guild .guild-inner a {
 	color: #888;
 }
 
@@ -1433,7 +1445,7 @@ body,
 	width: 70px;
 	height: 68px !important;
 	bottom: 8px !important;
-	background: #212121;
+	background: var(--server-bg);
 	border-radius: 0 !important;
 	border: 0;
 }
@@ -1442,7 +1454,7 @@ body,
 	width: 50px !important;
 	height: 50px !important;
 	margin: 10px 10px 0 10px !important;
-	background: #2b2b2b !important;
+	background: #2e2e34 !important;
 	border: none !important;
 }
 
@@ -1808,6 +1820,10 @@ body .Select-option:hover {
 	border-top-left-radius: 0 !important;
 }
 
+.message-group .comment .mention:hover {
+	background: var(--accent-rgb) !important;
+}
+
 /*.message-group .comment:before {
 	content: " ";
 	position: inherit;
@@ -2014,6 +2030,41 @@ body .Select-option:hover {
 	border: none;
 }
 
+.bda-dark #bda-qem {
+	border: none !important;
+}
+
+.bda-dark #bda-qem button {
+	border-radius: 0;
+	background: transparent !important;
+	box-shadow: none;
+	border: none;
+}
+
+.bda-dark #bda-qem #bda-qem-twitch,
+.bda-dark #bda-qem #bda-qem-favourite,
+.bda-dark #bda-qem #bda-qem-emojis {
+	position: relative !important;
+}
+
+.bda-dark #bda-qem #bda-qem-twitch.active:after,
+.bda-dark #bda-qem #bda-qem-favourite.active:after,
+.bda-dark #bda-qem #bda-qem-emojis.active:after {
+	content: " ";
+	position: absolute;
+	width: 90%;
+	height: 2px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: 0 auto;
+	background: #666;
+}
+
+#bda-qem-emojis {
+	border-radius: 0 !important;
+}
+
 .emojiPicker-3g68GS .header-27dQ-e {
 	position: relative;
 	z-index: 99999;
@@ -2147,6 +2198,7 @@ body .Select-option:hover {
 	height: 32px;
 	margin: 0;
 	border-radius: 50% !important;
+	box-shadow: none !important;
 	cursor: auto;
 }
 
@@ -2164,6 +2216,7 @@ body .Select-option:hover {
 
 .theme-dark .actionButton-2mkkT2 {
 	border-radius: 16px !important;
+	box-shadow: none !important;
 }
 
 .theme-dark .actionButton-2mkkT2:before {
