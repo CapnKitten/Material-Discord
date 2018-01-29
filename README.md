@@ -1,6 +1,6 @@
 # CapnKitten's Discord Material Design Theme
 
-Current version: v1.1
+Current version: v1.1.1
 
 ## Previews
 
@@ -38,6 +38,12 @@ Current version: v1.1
 ![discord-006](https://user-images.githubusercontent.com/4013216/35309040-737da14c-0078-11e8-963d-2cff02b3c251.png)
 
 ## Changelog
+
+#### v1.1.1
+* Changed more icons to material icons
+* Styled the public servers list for Better Discord
+* Added various animations
+* Upload modal styled
 
 #### v1.1
 * Video and audio calling styled
