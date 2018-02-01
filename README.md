@@ -23,7 +23,7 @@ Current version: v1.2
 
 #### User info popout
 
-![discord-003](https://user-images.githubusercontent.com/4013216/35309027-62ef6356-0078-11e8-9a93-5bedd86348e0.png)
+![discord-008](https://user-images.githubusercontent.com/4013216/35672512-d633260a-070c-11e8-802b-b5b201781f2e.png)
 
 #### User settings
 
