@@ -1,6 +1,6 @@
 # CapnKitten's Discord Material Design Theme
 
-Current version: v1.1.1
+Current version: v1.2
 
 ## Previews
 
@@ -19,7 +19,7 @@ Current version: v1.1.1
 
 #### User server info
 
-![discord-002](https://user-images.githubusercontent.com/4013216/35309023-5b992b46-0078-11e8-9a2d-de37ad85f40a.png)
+![discord-007](https://user-images.githubusercontent.com/4013216/35671438-6a74499c-0709-11e8-8cfe-f545cead30fd.png)
 
 #### User info popout
 
@@ -38,6 +38,13 @@ Current version: v1.1.1
 ![discord-006](https://user-images.githubusercontent.com/4013216/35309040-737da14c-0078-11e8-963d-2cff02b3c251.png)
 
 ## Changelog
+
+#### v1.2
+* Better Discord plugin/theme cards and switches fixed
+* More material icons added
+* Made popout menus more responsive
+* Added scrollbars to popout menus that require them
+* User info popout header background added
 
 #### v1.1.1
 * Changed more icons to material icons
