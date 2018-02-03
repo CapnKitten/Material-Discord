@@ -1,6 +1,6 @@
-# CapnKitten's Discord Material Design Theme
+# Material Discord Theme
 
-Current version: v1.2
+Current version: v1.2.1
 
 ## Previews
 
@@ -19,11 +19,11 @@ Current version: v1.2
 
 #### User server info
 
-![discord-007](https://user-images.githubusercontent.com/4013216/35671438-6a74499c-0709-11e8-8cfe-f545cead30fd.png)
+![discord-009](https://user-images.githubusercontent.com/4013216/35762981-1b8abe66-0870-11e8-89fa-816f84fd4b4a.png)
 
 #### User info popout
 
-![discord-008](https://user-images.githubusercontent.com/4013216/35672512-d633260a-070c-11e8-802b-b5b201781f2e.png)
+![discord-010](https://user-images.githubusercontent.com/4013216/35762982-27f2be60-0870-11e8-9b68-17445c8d918a.png)
 
 #### User settings
 
@@ -38,6 +38,12 @@ Current version: v1.2
 ![discord-006](https://user-images.githubusercontent.com/4013216/35309040-737da14c-0078-11e8-963d-2cff02b3c251.png)
 
 ## Changelog
+
+#### v1.2.1
+* Spotify integrations styled
+* Fixed up the user info popout backgrounds for those streaming/listening to spotify
+* Fixed scrolling issue with user connected accounts
+* Styled the add friend page
 
 #### v1.2
 * Better Discord plugin/theme cards and switches fixed
