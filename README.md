@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.2.1
+Current version: v1.2.2
 
 ## Previews
 
@@ -38,6 +38,12 @@ Current version: v1.2.1
 ![discord-006](https://user-images.githubusercontent.com/4013216/35309040-737da14c-0078-11e8-963d-2cff02b3c251.png)
 
 ## Changelog
+
+#### v1.2.2
+* Font changed to Roboto
+* Members list loading animation changed to match the theme
+* The loading blocks are now a material design spinner
+* Various small changes (excluding the listed ones)
 
 #### v1.2.1
 * Spotify integrations styled
