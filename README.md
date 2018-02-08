@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.2.2
+Current version: v1.2.3
 
 ## Previews
 
