@@ -39,6 +39,12 @@ Current version: v1.2.2
 
 ## Changelog
 
+#### v1.2.3
+* SMS authentication styled
+* Fixed messages background
+* Fixed username showing up when editing messages
+* Fixed the emoji panel for inviting user to listen to Spotify
+
 #### v1.2.2
 * Font changed to Roboto
 * Members list loading animation changed to match the theme
