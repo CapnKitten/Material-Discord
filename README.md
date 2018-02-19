@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.2.3
+Current version: v1.2.3.1
 
 ## Previews
 
@@ -38,6 +38,11 @@ Current version: v1.2.3
 ![discord-006](https://user-images.githubusercontent.com/4013216/35309040-737da14c-0078-11e8-963d-2cff02b3c251.png)
 
 ## Changelog
+
+#### v1.2.3.1
+* Fixed the things that Discord update 2.15.2018 changed
+* Changed server option icons to material icons
+* Updated user status location
 
 #### v1.2.3
 * SMS authentication styled
