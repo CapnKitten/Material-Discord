@@ -51,4 +51,4 @@ Current version: v1.2.4.1
 * Updated the right click context menu
 * Added animations to changing users roles
 
-[View previous changelogs](https://github.com/CapnKitten/capnkitten.github.io/blob/master/material-discord/updates.md)
+[View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/updates.md)
