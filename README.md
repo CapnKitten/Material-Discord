@@ -1,13 +1,17 @@
 # Material Discord Theme
 
-Current version: v1.2.3.1
+Current version: v1.2.4
 
 ## Previews
 
 (Animations in the GIFs are sped up)
 #### Changing status
 
-![discord-status](https://user-images.githubusercontent.com/4013216/35309043-79570ac2-0078-11e8-87fd-98a18a178050.gif)
+![discord-status](https://user-images.githubusercontent.com/4013216/36956319-bea5497a-1ffb-11e8-862c-d8a926b1f6a1.gif)
+
+#### Changing user roles
+
+![discord-roles](https://user-images.githubusercontent.com/4013216/36956334-d69b0b82-1ffb-11e8-8860-a171d0887f5c.gif)
 
 #### Audio notification
 
@@ -15,17 +19,19 @@ Current version: v1.2.3.1
 
 #### Main chat area
 
-![discord-001](https://user-images.githubusercontent.com/4013216/35309006-50bd3b68-0078-11e8-9213-e94abe370dc8.png)
+![discord-001](https://user-images.githubusercontent.com/4013216/36956289-8bda3a00-1ffb-11e8-9dd5-0ba3fd5d708b.png)
 
 #### User server info
 
-![discord-009](https://user-images.githubusercontent.com/4013216/35762981-1b8abe66-0870-11e8-89fa-816f84fd4b4a.png)
+![discord-009](https://user-images.githubusercontent.com/4013216/36956295-9d913924-1ffb-11e8-98eb-495d2bfccd3c.png)
 
 #### User info popout
 
-![discord-010](https://user-images.githubusercontent.com/4013216/35762982-27f2be60-0870-11e8-9b68-17445c8d918a.png)
+![discord-010](https://user-images.githubusercontent.com/4013216/36956310-b198a5ce-1ffb-11e8-8e5b-419349818c52.png)
 
 #### User settings
+
+![discord-104](https://user-images.githubusercontent.com/4013216/36956571-210df52a-1ffd-11e8-9a9e-ac8a28164ee7.png)
 
 ![discord-004](https://user-images.githubusercontent.com/4013216/35309029-677998e2-0078-11e8-8ac6-e1a7fd710abf.png)
 
@@ -39,45 +45,10 @@ Current version: v1.2.3.1
 
 ## Changelog
 
-#### v1.2.3.1
-* Fixed the things that Discord update 2.15.2018 changed
-* Changed server option icons to material icons
-* Updated user status location
+#### v1.2.4
+* Updated the styling for Spotify
+* Change the Discord logo to Material Discord
+* Updated the right click context menu
+* Added animations to changing users roles
 
-#### v1.2.3
-* SMS authentication styled
-* Fixed messages background
-* Fixed username showing up when editing messages
-* Fixed the emoji panel for inviting user to listen to Spotify
-
-#### v1.2.2
-* Font changed to Roboto
-* Members list loading animation changed to match the theme
-* The loading blocks are now a material design spinner
-* Various small changes (excluding the listed ones)
-
-#### v1.2.1
-* Spotify integrations styled
-* Fixed up the user info popout backgrounds for those streaming/listening to spotify
-* Fixed scrolling issue with user connected accounts
-* Styled the add friend page
-
-#### v1.2
-* Better Discord plugin/theme cards and switches fixed
-* More material icons added
-* Made popout menus more responsive
-* Added scrollbars to popout menus that require them
-* User info popout header background added
-
-#### v1.1.1
-* Changed more icons to material icons
-* Styled the public servers list for Better Discord
-* Added various animations
-* Upload modal styled
-
-#### v1.1
-* Video and audio calling styled
-* Screensharing styled
-
-#### v1.0
-* Initial release
+[View previous changelogs](https://github.com/CapnKitten/capnkitten.github.io/blob/master/material-discord/updates.md)
