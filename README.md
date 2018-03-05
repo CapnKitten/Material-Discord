@@ -53,4 +53,4 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 * Updated the right click context menu
 * Added animations to changing users roles
 
-[View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/updates.md)
+[View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/readme.md)
