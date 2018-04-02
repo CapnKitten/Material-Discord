@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.2.4.1
+Current version: v1.2.4.2
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -47,10 +47,10 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.2.4
-* Updated the styling for Spotify
-* Change the Discord logo to Material Discord
-* Updated the right click context menu
-* Added animations to changing users roles
+#### v1.2.4.2
+* Changed the scrollbars
+* Codeblocks are now monospace
+* Updated various elements that Discord changed
+* Better positioning of the user popout
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/readme.md)
