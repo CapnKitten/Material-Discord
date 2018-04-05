@@ -49,7 +49,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 #### v1.2.4.6
 * Fixed channels scrollbar issue
-* Temporary fix DM reactions
+* Temporarily fixed DM reactions
 * Updated elements that Discord changed
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/readme.md)
