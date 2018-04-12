@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.2.4.6
+Current version: v1.2.5
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -47,9 +47,11 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.2.4.6
-* Fixed channels scrollbar issue
-* Temporarily fixed DM reactions
-* Updated elements that Discord changed
+#### v1.2.5
+* Added status tooltips
+* Streaming status fix
+* New button to open images in browser
+* Public servers updated
+* Updated cards in most of user and BetterDiscord settings
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/readme.md)
