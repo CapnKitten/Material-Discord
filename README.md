@@ -54,4 +54,4 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 * Public servers updated
 * Updated cards in most of user and BetterDiscord settings
 
-[View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/readme.md)
+[View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
