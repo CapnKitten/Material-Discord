@@ -49,7 +49,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 #### v1.2.5
 * Added status tooltips
-* Streaming status fix
+* Streaming status fixed
 * New button to open images in browser
 * Public servers updated
 * Updated cards in most of user and BetterDiscord settings
