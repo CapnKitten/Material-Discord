@@ -47,7 +47,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v.1.2.5.1
+#### v1.2.5.1
 * Fixed a bug when mentioning offline users
 * Styled server invite
 
