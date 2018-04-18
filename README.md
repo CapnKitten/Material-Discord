@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.2.5
+Current version: v1.2.5.1
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -47,11 +47,8 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.2.5
-* Added status tooltips
-* Streaming status fixed
-* New button to open images in browser
-* Public servers updated
-* Updated cards in most of user and BetterDiscord settings
+#### v.1.2.5.1
+* Fixed a bug when mentioning offline users
+* Styled server invite
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
