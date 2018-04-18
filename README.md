@@ -51,4 +51,5 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 * Fixed a bug when mentioning offline users
 * Styled server invite
 
+
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
