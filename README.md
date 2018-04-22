@@ -6,7 +6,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Previews
 
-(Animations in the GIFs are sped up)
+(Previews are subject to be out of date / Animations in the GIFs are sped up)
 #### Changing status
 
 ![discord-status](https://user-images.githubusercontent.com/4013216/36956319-bea5497a-1ffb-11e8-862c-d8a926b1f6a1.gif)
