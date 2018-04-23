@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.2.6
+Current version: v1.2.6.1
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -47,11 +47,10 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.2.6
-* Reactions menu animation fixed
-* More card updates
-* Connection integrations styled
-* Settings side bar changed
+#### v1.2.6.1
+* Emoji menu updated
+* Typing status positioning fixed
+* Create/join server icon centered
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
