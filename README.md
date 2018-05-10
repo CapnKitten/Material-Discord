@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.2.8.2
+Current version: v1.2.8.3
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -47,7 +47,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.2.8.2
+#### v1.2.8.3
 * Changed the emote switch buttons
 * Updated elements that Discord changed
 
