@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.2.8.1
+Current version: v1.2.8.2
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -47,12 +47,8 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.2.8
-* Load more messages button changed
-* Mentions updated
-* DMs separator added
-* Slider bar grabber tooltip fixed
-* Fix for [DevilBro's](https://github.com/mwittrien) theme and plugin repos
+#### v1.2.8.2
+* Updated elements that Discord changed
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
