@@ -21,25 +21,25 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 #### Main chat area
 
-![discord-001](https://user-images.githubusercontent.com/4013216/36956289-8bda3a00-1ffb-11e8-9dd5-0ba3fd5d708b.png)
+![discord-001](https://user-images.githubusercontent.com/4013216/40872156-c597347a-6617-11e8-9e30-0dce8965bcc6.png)
 
 #### User server info
 
-![discord-009](https://user-images.githubusercontent.com/4013216/36956295-9d913924-1ffb-11e8-98eb-495d2bfccd3c.png)
+![discord-009](https://user-images.githubusercontent.com/4013216/40872157-c5a3c4d8-6617-11e8-8dc4-0cb4222286e6.png)
 
 #### User info popout
 
-![discord-010](https://user-images.githubusercontent.com/4013216/36956310-b198a5ce-1ffb-11e8-8e5b-419349818c52.png)
+![discord-010](https://user-images.githubusercontent.com/4013216/40872158-c5ae8846-6617-11e8-84d8-bb9fb7a701c8.png)
 
 #### User settings
 
-![discord-104](https://user-images.githubusercontent.com/4013216/36956571-210df52a-1ffd-11e8-9a9e-ac8a28164ee7.png)
+![discord-104](https://user-images.githubusercontent.com/4013216/40872159-c5bc4760-6617-11e8-8965-5c3dc75715e8.png)
 
-![discord-004](https://user-images.githubusercontent.com/4013216/35309029-677998e2-0078-11e8-8ac6-e1a7fd710abf.png)
+![discord-004](https://user-images.githubusercontent.com/4013216/40872160-c5c7333c-6617-11e8-8d43-03005569e24a.png)
 
 #### DMs
 
-![discord-005](https://user-images.githubusercontent.com/4013216/35309034-6f0c33a8-0078-11e8-9903-0db174c4fe17.png)
+![discord-005](https://user-images.githubusercontent.com/4013216/40872161-c5d33d4e-6617-11e8-8b73-7b474325fb79.png)
 
 #### LFG
 
