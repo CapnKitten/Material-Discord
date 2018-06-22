@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.3.0
+Current version: v1.3.1
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -41,20 +41,24 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ![discord-005](https://user-images.githubusercontent.com/4013216/40872161-c5d33d4e-6617-11e8-8b73-7b474325fb79.png)
 
+#### Game center
+
+![discord-301](https://user-images.githubusercontent.com/4013216/41759952-1e3b8282-75bf-11e8-9d22-13cc35787070.png)
+
+![discord-302](https://user-images.githubusercontent.com/4013216/41759953-1e4b30a6-75bf-11e8-9e83-c711486131cd.png)
+
 #### LFG
 
 ![discord-006](https://user-images.githubusercontent.com/4013216/35309040-737da14c-0078-11e8-963d-2cff02b3c251.png)
 
 ## Changelog
 
-#### v1.3.0
-* Spotify invite updated
-* NSFW alert updated
-* Members list padding changed
-* Server invites and ban list updated
-* Games list animated
-* Audit log icons updated
-* Attachment and emoji buttons fixed
+#### v1.3.1
+* Game center styled
+* Status picker fixed after update
+* Toasts styled
+* Now playing games buttons in user settings fixed
+* Open original image button updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
