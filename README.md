@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.3.1
+Current version: v1.3.1.1
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
