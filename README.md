@@ -53,12 +53,14 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.3.2
-* Card button action size reduced
-* Blocked messages styled
-* Imbeded video play button fixed
-* Server member settings role tooltips fixed
-* Padding between message blocks reduced
+#### v1.3.3
+* Updated elements that Discord changed (If I missed any, please let me know)
+* Compact messages updated
+* Message options popout fixed
+* Edit message buttons updated
+* Color picker styled
+* Uploaded video player styled
+* Server settings notification change updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
