@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.3.3.2 (30/07/2018)
+Current version: v1.3.3.4 (31/07/2018)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -53,12 +53,9 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.3.3.2
-* Various message fixes
-* Invited modal updated
-* Add friends to DM updated
-* Mention notifications updated
-* Search users DM modal updated
+#### v1.3.3.4
+* Updated elements that Discord changed (If I missed any, please let me know)
+* Connection issue interface updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
