@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.3.3.4 (31/07/2018)
+Current version: v1.3.4 (04/08/2018)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -53,9 +53,11 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.3.3.4
+#### v1.3.4
 * Updated elements that Discord changed (If I missed any, please let me know)
-* Connection issue interface updated
+* Various popout menu animations updated
+* Recent mentions popout updated
+* User status icons fixed
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
