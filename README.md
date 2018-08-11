@@ -1,6 +1,6 @@
 # Material Discord Theme
 
-Current version: v1.3.4.5 (08/08/2018)
+Current version: v1.3.4.6 (10/08/2018)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -53,12 +53,9 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.3.4.2
-* Game center title bar added
-* Game center small carousel pagination buttons fixed
-* Add friend searching updated
-* Jump to present updated
-* Status picker animation fixed
+#### v1.3.4.5
+* Billing styled
+* Overlay settings styled
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
