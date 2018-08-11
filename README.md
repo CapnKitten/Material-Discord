@@ -53,7 +53,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.3.4.5
+#### v1.3.4.6
 * Billing styled
 * Overlay settings styled
 
