@@ -1,6 +1,6 @@
 # Material Discord Theme
 #### A theme based on Google's Material Design
-<br>
+<hr>
 
 Current version: v1.3.4.6 (10/08/2018)
 
