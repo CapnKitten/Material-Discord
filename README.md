@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.3.4.10 (08/09/2018)
+Current version: v1.3.5 (11/09/2018)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -55,11 +55,11 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.3.4.10
-* Button sizes updated
-* Search results header bar updated
-* Spotify song link fixed
-* AFK channel popout menu fixed
+#### v1.3.5
+* Handful of animations updated
+* ImageGallary plugin by DevilBro updated
+* Voice call buttons updated
+* Server settings add/remove user roles tooltip fixed
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
