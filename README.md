@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.3.5.1 (13/09/2018)
+Current version: v1.3.5.2 (25/09/2018)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -55,8 +55,10 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.3.5.1
-* Updated elements that Discord changed (If I missed any, please let me know)
+#### v1.3.5.2
+* NSFW warning update
+* Imbeded YouTube video play button fixed
+* Nitro notification updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
