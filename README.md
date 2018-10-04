@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.4.0 (01/10/2018)
+Current version: v1.4.1 (04/10/2018)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -55,10 +55,10 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.4.0
-* Discord game store styled
-* New game library tab upadted
-* Slowmode notification updated
+#### v1.4.1
+* Discord game store home and game listing pages made more fluid for larger displays
+* Various search bars updated to Material Design 2
+* New messages banner updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
