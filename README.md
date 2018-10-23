@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.4.3 (20/10/2018)
+Current version: v1.4.3.1 (23/10/2018)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -55,13 +55,9 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.4.3
-* Updated elements that Discord changed (If I missed any, please let me know)
-* Discord store game page cards and icons updated
-* Create group DM menu updated
-* Add friend input updated
-* Icons that I missed are updated to Material Design 2 icons
-* Button shadows updated
+#### v1.4.3.1
+* BetterDiscord settings updated
+* Mention and emoji match popup menu updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
