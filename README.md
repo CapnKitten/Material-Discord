@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.5.0 (14/11/2018)
+Current version: v1.5.2 (28/11/2018)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -55,13 +55,11 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.5.0
-* Font updated to Product Sans
-* Material Discord logo updated to Product Sans
-* Home activity carousel updated
-* Dicord store cards updated
-* Library cards updated
-* Library nitro tab styled
+#### v1.5.2
+* Sidebar for user and server settings updated
+* Server emoji, webhooks, invites, and bans lists updated
+* Role colored text fixed
+* Create/join popout menu updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
