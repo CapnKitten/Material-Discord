@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.5.4 (13/12/2018)
+Current version: v1.5.5 (20/12/2018)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -55,12 +55,11 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.5.4
-* Modal headers padding updated
-* Emoji button positions fixed
-* Gift inventory styled
-* Server Folders plugin mentions fixed
-* Discord store game page sidebar updated
+#### v1.5.5
+* Mic test styled
+* Blocked messages updated
+* Discord store game page latest news styled
+* Gif button and popout menu styled
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
