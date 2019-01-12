@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.5.6 (03/01/2019)
+Current version: v1.6.0 (12/01/2019)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -55,10 +55,8 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.5.6
-* Gift Nitro modal styled
-* Authorize app modal styled
-* Gift inventory cards updated
+#### v1.6.0
+* Updated elements that Discord changed (If I missed any, please let me know)
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
