@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.6.1 (14/01/2019)
+Current version: v1.6.2 (16/01/2019)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -55,11 +55,11 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.6.1
-* Emoji panel search bar fixed
-* Voice and video chat region select updated
-* Edit messages buttons fixed
-* Upload modal textarea fixed
+#### v1.6.2
+* Status picker fixed
+* Server search results updated
+* Add friends to DM updated
+* DevilBro's theme and plugin repo modals updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
