@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.7.0 (16/02/2019)
+Current version: v1.7.1 (02/03/2019)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -43,21 +43,17 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ![discord-005](https://user-images.githubusercontent.com/4013216/40872161-c5d33d4e-6617-11e8-8b73-7b474325fb79.png)
 
-#### Game center
+#### Home tab
 
-![discord-301](https://user-images.githubusercontent.com/4013216/41759952-1e3b8282-75bf-11e8-9d22-13cc35787070.png)
+![discord-401](https://user-images.githubusercontent.com/4013216/53679347-a3f64780-3c99-11e9-833b-640bba0b8825.png)
 
-![discord-302](https://user-images.githubusercontent.com/4013216/41759953-1e4b30a6-75bf-11e8-9e83-c711486131cd.png)
-
-#### LFG
-
-![discord-006](https://user-images.githubusercontent.com/4013216/35309040-737da14c-0078-11e8-963d-2cff02b3c251.png)
+![discord-402](https://user-images.githubusercontent.com/4013216/53679536-95a92b00-3c9b-11e9-8c15-e71452e91df7.png)
 
 ## Changelog
 
-#### v1.7.0
-* Server discovery features styled
-* Spotify buttons in user popouts and profiles fixed
+#### v1.7.1
+* New activity tab styled
+* Various updates for user profiles playing Xbox games
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
