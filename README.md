@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.8.0 (31/03/2019)
+Current version: v1.8.1 (15/04/2019)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -51,12 +51,11 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.8.0
-* User settings activity feed styled
-* Create/Join server button updated
-* Activity carousel fixed
-* Authorize app modal updated
-* Home Activity page updated
+#### v1.8.1
+* Cyrillic font support added
+* Activity quick launcher and recently played cards updated
+* Activity now playing Twitch player updated
+* Home tab notification updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
