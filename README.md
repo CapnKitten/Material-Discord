@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.8.2 (24/04/2019)
+Current version: v1.8.2.1 (24/04/2019)
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -51,10 +51,13 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.8.2
+#### v1.8.2.1
 * Game popout modal updated
 * Tooltips updated
 * Updated elements that Discord changed (If I missed any, please let me know) - Server list is a WIP but I wanted to at least an update out to fix most of the changes
+* Emoji menu updated
+* Add friends to DM popout updated
+* Various search bars updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
