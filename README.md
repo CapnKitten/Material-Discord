@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.9.0 (29/04/2019) - **[Download](https://betterdiscord.net/ghdl?id=2858)**
+Current version: v1.9.0.1 (29/04/2019) - **[Download](https://betterdiscord.net/ghdl?id=2858)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
