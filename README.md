@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.9.0.1 (29/04/2019) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
+Current version: v1.9.0.2 (01/05/2019) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -51,15 +51,9 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.9.0
-* ServerFolders plugin support updated
-* OldTitleBar plugin support updated
-* Material Design ripple added back to the top bar buttons
-* Message jump buttons fixed
-* Spoiler tag updated and tooltip added
-* Material Design input bar animation added
-* Voice call updated
-* Title bar while in voice/video call updated
+#### v1.9.0.2
+* Detect account interface styled
+* Various macOS related fixes/updates
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
