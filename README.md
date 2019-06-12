@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v1.9.2 (31/05/2019) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
+Current version: v2.0 (12/06/2019) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -51,11 +51,14 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v1.9.2
-* Partnered and verified server icons updated
-* Spotify listen along invite textarea fixed
-* Various list borders removed
-* Library games updated
+#### v2.0
+* Nitro server boost modal styled
+* Server discovery cards and pagination updated
+* Game Activity and Activity Feed lists updated
+* Select a language list updated
+* Server settings audit log updated
+* Various text headers updated to not be uppercase
+* Discord Nitro game page updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
