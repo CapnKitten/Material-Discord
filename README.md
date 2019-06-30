@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v2.0.1.1 (20/06/2019) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
+Current version: v2.0.2 (29/06/2019) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -51,14 +51,10 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v2.0
-* Nitro server boost modal styled
-* Server discovery cards and pagination updated
-* Game Activity and Activity Feed lists updated
-* Select a language list updated
-* Server settings audit log updated
-* Various text headers updated to not be uppercase
-* Discord Nitro game page updated
+#### v2.0.2
+* Updated elements that Discord changed (If I missed any, please let me know)
+* Fixed the unread notifications glitchy animations
+* MemberCount plugin by Arashiryuu support added
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
