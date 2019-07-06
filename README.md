@@ -49,6 +49,31 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ![discord-402](https://user-images.githubusercontent.com/4013216/53679536-95a92b00-3c9b-11e9-8c15-e71452e91df7.png)
 
+
+## Variables
+
+ - `--accent-color` - The main accent color for the theme.
+ - `--accent-color-hover` - A brighter color of the accent color for uses such as button hovers.
+ - `--accent-color-active` - A brighter color of the accent hover color for uses such as button presses.
+ - `--accent-rgb` - The accent color, but with a lower opacity for translucent backgrounds.
+
+&nbsp;
+
+ - `--alert-color` - Color of the various alert/error elements
+ - `--alert-color-hover` - A brighter color of the alert color
+ - `--alert-color-active` - A brighter color of the alert hover color
+
+&nbsp;
+
+ - `--notification-color` - The unread notification color
+ - `--success-color` - Color of various success elements
+
+&nbsp;
+
+ - `--border-radius` - Border radius of most of the elements
+ - `--border-radius-big` - Border radius of the modals/popouts
+
+
 ## Changelog
 
 #### v2.0.2
