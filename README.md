@@ -6,6 +6,8 @@ Current version: v2.0.2 (29/06/2019) - **[Download](https://betterdiscord.net/gh
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
+&nbsp;
+
 ## Previews
 
 (Previews are subject to be out of date / Animations in the GIFs are sped up)
@@ -49,6 +51,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ![discord-402](https://user-images.githubusercontent.com/4013216/53679536-95a92b00-3c9b-11e9-8c15-e71452e91df7.png)
 
+&nbsp;
 
 ## Variables
 
@@ -73,6 +76,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
  - `--border-radius` - Border radius of most of the elements
  - `--border-radius-big` - Border radius of the modals/popouts
 
+&nbsp;
 
 ## Changelog
 
