@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v2.0.7.1 (11/09/2019) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
+Current version: v2.0.7.2 (20/09/2019) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -74,8 +74,8 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v2.0.7.1
-* Create a group/LFG styled
+#### v2.0.7.2
+* Compact messages and editing updated
 * Updated elements that Discord changed (If I missed any, please let me know)
 
 
