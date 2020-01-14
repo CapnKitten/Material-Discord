@@ -78,7 +78,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 * Editing, uploading file, and spotify invite textareas fixed
 * Attachment button realigned correctly
 * Autocomplete modal for mentions in the upload and spotify invite modals styled correctly
-* ServerFolders by DevilBro server notification somewhat fixed
+* ServerFolders by DevilBro server unread notification somewhat fixed
 * Scrollbars made a few pixels wider
 
 
