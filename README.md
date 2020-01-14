@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v2.1.2.1 (20/12/2019) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
+Current version: v2.1.3 (13/01/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -74,10 +74,12 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v2.1
-* Search button on the home tab fixed
-* Radio buttons fixed
-* Updated elements that Discord changed (If I missed any, please let me know)
+#### v2.1.3
+* Editing, uploading file, and spotify invite textareas fixed
+* Attachment button realigned correctly
+* Autocomplete modal for mentions in the upload and spotify invite modals styled correctly
+* ServerFolders by DevilBro server notification somewhat fixed
+* Scrollbars made a few pixels wider
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
