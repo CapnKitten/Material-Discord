@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v2.1.4.1 (22/01/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
+Current version: v2.1.5 (30/01/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -74,11 +74,12 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v2.1.4
-* New messages bar colored correctly
-* Library games list fixed
-* Library settings fixed
-* [CharCounter](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/CharCounter) plugin by [DevilBro](https://github.com/mwittrien) styled correctly for the theme
+#### v2.1.5
+* Nitro subsriptions, gift invetory, and server boost pages styled
+* Billing add credit card modal fixed
+* Discord tag input fixed
+* Language selector fixed
+* New friends list/activity styled
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
