@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v2.1.6 (04/02/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
+Current version: v2.1.7 (05/02/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -74,11 +74,14 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v2.1.6
-* Messages updated
-* New message actions styled and animated
-* Unread/new messages notification bar updated (WIP)
-* Popup format toolbar styled
+#### v2.1.7
+* Messages updated yet again, thanks Discord
+* Messages container scrollbar gap at the bottom fixed
+* Compact messages updated
+* Delete message modal updated
+* Upload file message fixed
+* Audio player fixed
+* Pinned messages styled
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
