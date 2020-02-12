@@ -75,7 +75,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 ## Changelog
 
 #### v2.1.8
-* Added Product Sans font support for non-english languages
+* Added Product Sans font support for Greek and Latin Extended characters
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
