@@ -74,7 +74,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v2.1.9
+#### v2.1.9 (08/03/2020)
 * Updated icons that were changed
 * Fixed DM call icons in messages
 
