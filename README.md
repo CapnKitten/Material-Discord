@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v2.2.1 (29/03/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
+Current version: v2.2.1.1 (29/03/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -66,6 +66,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
  - `--alert-color` - Color of the various alert/error elements
  - `--alert-color-hover` - A brighter color of the alert color
  - `--alert-color-active` - A brighter color of the alert hover color
+ - `--alert-text-color` - Text color for various buttons and elements with the alert color
  - `--notification-color` - The unread notification color
  - `--success-color` - Color of various success elements
  - `--border-radius` - Border radius of most of the elements
