@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v2.2 (28/03/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
+Current version: v2.2.1 (29/03/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -59,6 +59,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
  - `--accent-color-hover` - A brighter color of the accent color for uses such as button hovers
  - `--accent-color-active` - A brighter color of the accent hover color for uses such as button presses
  - `--accent-rgb` - The accent color, but with a lower opacity for translucent backgrounds
+ - `--accent-text-color` - The text color for buttons and other various elements with the accent background color
  - `--card-color` - Color of most of the cards
  - `--card-alt` - A lighter color for some of the cards
  - `--card-border-color` Border color for headers and footers in cards and modals
