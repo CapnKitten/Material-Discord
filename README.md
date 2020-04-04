@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v2.2.3 (03/04/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
+Current version: v2.2.3.1 (04/04/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -71,6 +71,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
  - `--success-color` - Color of various success elements
  - `--border-radius` - Border radius of most of the elements
  - `--border-radius-big` - Border radius of the modals/popouts
+ - `--audio-flash` - The RGB value for the flashing icons such as the voice/video chat circles
 
 &nbsp;
 
