@@ -56,16 +56,18 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 ## Variables
 
  - `--accent-color` - The main accent color for the theme
- - `--accent-color-hover` - A brighter color of the accent color for uses such as button hovers
- - `--accent-color-active` - A brighter color of the accent hover color for uses such as button presses
+ - `--accent-button-action` - The color used for the hover and active states for accent buttons
+ - `--accent-button-action-hover` - The opacity for the accent button hover state
+ - `--accent-button-action-active` - The opacity for the accent button active state
  - `--accent-rgb` - The accent color, but with a lower opacity for translucent backgrounds
  - `--accent-text-color` - The text color for buttons and other various elements with the accent background color
  - `--card-color` - Color of most of the cards
  - `--card-alt` - A lighter color for some of the cards
  - `--card-border-color` Border color for headers and footers in cards and modals
  - `--alert-color` - Color of the various alert/error elements
- - `--alert-color-hover` - A brighter color of the alert color
- - `--alert-color-active` - A brighter color of the alert hover color
+ - `--alert-button-rgb-action` - The color used for the hover and active states for alert buttons
+ - `--alert-button-action-hover` - The opacity for the alert button hover state
+ - `--alert-button-action-active` - The opacity for the alert button active state
  - `--alert-text-color` - Text color for various buttons and elements with the alert color
  - `--notification-color` - The unread notification color
  - `--success-color` - Color of various success elements
