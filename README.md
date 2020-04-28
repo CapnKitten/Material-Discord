@@ -65,7 +65,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
  - `--card-alt` - A lighter color for some of the cards
  - `--card-border-color` Border color for headers and footers in cards and modals
  - `--alert-color` - Color of the various alert/error elements
- - `--alert-button-rgb-action` - The color used for the hover and active states for alert buttons
+ - `--alert-button-action` - The color used for the hover and active states for alert buttons
  - `--alert-button-action-hover` - The opacity for the alert button hover state
  - `--alert-button-action-active` - The opacity for the alert button active state
  - `--alert-text-color` - Text color for various buttons and elements with the alert color
