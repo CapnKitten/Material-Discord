@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v2.2.7 (09/05/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
+Current version: v2.2.8 (14/05/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -79,10 +79,9 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v2.2.7 (09/05/2020)
-* Improved DM screenshare interface
-* Most uploaded files icons updated
-* Various fixes
+#### v2.2.8 (14/05/2020)
+* New Discover categories styled
+* Updated elements that Discord changed (If I missed any, please let me know)
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
