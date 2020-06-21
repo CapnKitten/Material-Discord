@@ -60,6 +60,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
  - `--accent-button-action-hover` - The opacity for the accent button hover state
  - `--accent-button-action-active` - The opacity for the accent button active state
  - `--accent-rgb` - The accent color, but with a lower opacity for translucent backgrounds
+ - `--accent-rgb-text-color` - The text color for content inside elements that use accent-rgb
  - `--accent-text-color` - The text color for buttons and other various elements with the accent background color
  - `--card-color` - Color of most of the cards
  - `--card-alt` - A lighter color for some of the cards
