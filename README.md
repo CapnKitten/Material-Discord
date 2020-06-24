@@ -74,6 +74,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
  - `--success-color` - Color of various success elements
  - `--border-radius` - Border radius of most of the elements
  - `--border-radius-big` - Border radius of the modals/popouts
+ - `--new-messages-radius` - Border radius for the new messages bubble, images, and embedded attachments introduced in v2.3
  - `--audio-flash` - The RGB value for the flashing icons such as the voice/video chat circles
 
 &nbsp;
