@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v2.3.1 (25/06/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
+Current version: v2.3.2 (30/06/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -81,14 +81,8 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v2.3 (21/06/2020)
-* New messages bubbles based on Material Design 2
-* Message bubbles spacing is now affected by `Space between message groups` in the appearance settings
-* Link color in messages abides by `--accent-color`
-* Plugin list button hover/active effect fixed
-* Channel/mention text color will be handled by `--accent-rgb-text-color`
-* Reverted plugin settings UI changes to make them more usable
-* Various small color fixes that Discord changed
+#### v2.3.2 (30/06/2020)
+* Updated elements that Discord changed (If I missed any, please let me know)
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
