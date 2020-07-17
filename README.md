@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v2.3.3 (11/07/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)** | Old messages add-on: **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/BetterDiscord/master/Material-Discord/css/Material-Discord_addon-messages.theme.css)**
+Current version: v2.3.3.1 (17/07/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)** | Old messages add-on: **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/BetterDiscord/master/Material-Discord/css/Material-Discord_addon-messages.theme.css)**
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/
 
@@ -90,10 +90,9 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 ## Changelog
 
-#### v2.3.3 (11/07/2020)
-* Icons updated for languages other than English
-* Search results updated
-* Pinned messages message for the compact appearance fixed
+#### v2.3.3.1 (17/07/2020)
+* Spacing issue with compact messages and chat font scaling fixed
+* Spacing issue with disabled video and screensharing buttons when in a voice call fixed
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
