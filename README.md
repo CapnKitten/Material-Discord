@@ -96,8 +96,8 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
 
-[paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
+[paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=for-the-badge&logo=paypal&color=blue
 [paypal-url]: https://paypal.me/capnkitten
 
-[github-logo]: https://img.shields.io/static/v1?label=GitHub&message=Sponsor&style=flat&logo=github&color=black
+[github-logo]: https://img.shields.io/static/v1?label=GitHub&message=Sponsor&style=for-the-badge&logo=github&color=black
 [github-url]: https://github.com/sponsors/CapnKitten
