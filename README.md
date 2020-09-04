@@ -1,4 +1,4 @@
-# Material Discord Theme - [![Paypal][paypal-logo]][paypal-url]
+# Material Discord Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url]
 #### A theme based on Google's Material Design
 <hr>
 
@@ -98,3 +98,6 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/blob/master/Materia
 
 [paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
 [paypal-url]: https://paypal.me/capnkitten
+
+[github-logo]: https://img.shields.io/static/v1?label=GitHub&message=Sponsor&style=flat&logo=github&color=black
+[github-url]: https://github.com/sponsors/CapnKitten
