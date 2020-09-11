@@ -6,8 +6,6 @@ Current version: v2.3.3.6 (11/09/2020) - **[Download](https://betterdiscord.net/
 
 Assets moved to: https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Material-Discord
 
-&nbsp;
-
 ## Previews
 
 (Previews are subject to be out of date / Animations in the GIFs are sped up)
@@ -94,7 +92,7 @@ Assets moved to: https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/
 * Various fixes
 
 
-[View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Material-Discord/README.md)
+[View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Material-Discord/changelog.md)
 
 [paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
 [paypal-url]: https://paypal.me/capnkitten
