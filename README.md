@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v2.3.4.1 (04/12/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)** | Old messages add-on: **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/BetterDiscord/master/Themes/Material-Discord/css/Material-Discord_addon-messages.theme.css)**
+Current version: v2.3.5 (11/01/2021) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Material-Discord/master/Material-Discord.theme.css)** | Old messages add-on: **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/BetterDiscord/master/Themes/Material-Discord/css/Material-Discord_addon-messages.theme.css)**
 
 Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Material-Discord
 
@@ -88,10 +88,11 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Theme
 
 ## Changelog
 
-#### v2.3.4.1 (04/12/2020)
-* Various icon positions fixed
-* Webcam icon while in a voice channel fixed
-* Stickers panel styled
+#### v2.3.5 (11/01/2021)
+* Icons added to the sidebars of both the user and server options
+* Voice channel icons updated
+* Various server community pages styled
+* Search results updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Material-Discord/changelog.md)
