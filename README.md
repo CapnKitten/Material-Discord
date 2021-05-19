@@ -2,7 +2,7 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v3.0.3 (24/02/2021) - Old messages add-on: **[Download](https://capnkitten.github.io/BetterDiscord/Download/?theme=Material-Discord&addon=Material-Discord_addon-messages)** | Solid icons add-on: **[Download](https://capnkitten.github.io/BetterDiscord/Download/?theme=Material-Discord&addon=Material-Discord_addon-icons)** | Status picker add-on: **[Download](https://capnkitten.github.io/BetterDiscord/Download/?theme=Material-Discord&addon=Material-Discord_addon-status-picker)**
+Current version: v3.0.3 (24/02/2021) - Old messages add-on: **[Download](https://capnkitten.github.io/BetterDiscord/Download/?theme=Material-Discord&addon=Material-Discord_addon-messages)** | Solid icons add-on: **[Download](https://capnkitten.github.io/BetterDiscord/Download/?theme=Material-Discord&addon=Material-Discord_addon-icons)** | Status picker add-on: **[Download](https://capnkitten.github.io/BetterDiscord/Download/?theme=Material-Discord&addon=Material-Discord_addon-status-picker){:target="_blank"}**
 
 Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Material-Discord
 
