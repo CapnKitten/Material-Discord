@@ -57,6 +57,8 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Theme
 
 ## Variables
 
+** **Indicates that it has two values for both the dark and light themes of Discord. Instead of using `:root`, use `.theme-dark` or `.theme-light`.**
+
 #### App elements
  - `--app-bg` - The background for the entire Discord app. Default: `var(--main-alt)`
  - `--main-color` - The background color for main content areas like in the settings menu. Default: `#16171a` - `#e8eaeb`**
