@@ -27,31 +27,25 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Theme
 
 #### Main chat area
 
-![discord-001](https://user-images.githubusercontent.com/4013216/40872156-c597347a-6617-11e8-9e30-0dce8965bcc6.png)
+![discord-501](https://user-images.githubusercontent.com/4013216/123740654-c8b55680-d876-11eb-8ca0-f27e1bc14af0.png)
 
-#### User server info
+#### User popout info
 
-![discord-009](https://user-images.githubusercontent.com/4013216/40872157-c5a3c4d8-6617-11e8-8dc4-0cb4222286e6.png)
+![discord-502](https://user-images.githubusercontent.com/4013216/123741021-5abd5f00-d877-11eb-962c-356e6cca7819.png)
 
-#### User info popout
+#### User profile
 
-![discord-010](https://user-images.githubusercontent.com/4013216/40872158-c5ae8846-6617-11e8-84d8-bb9fb7a701c8.png)
+![discord-503](https://user-images.githubusercontent.com/4013216/123741071-6f015c00-d877-11eb-8538-09c8f8524ace.png)
 
 #### User settings
 
-![discord-104](https://user-images.githubusercontent.com/4013216/40872159-c5bc4760-6617-11e8-8965-5c3dc75715e8.png)
+![discord-504_1](https://user-images.githubusercontent.com/4013216/123741607-580f3980-d878-11eb-9725-90e127492a49.png)
 
-![discord-004](https://user-images.githubusercontent.com/4013216/40872160-c5c7333c-6617-11e8-8d43-03005569e24a.png)
+![discord-505](https://user-images.githubusercontent.com/4013216/123741465-17172500-d878-11eb-9c64-ba3177291207.png)
 
 #### DMs
 
-![discord-005](https://user-images.githubusercontent.com/4013216/40872161-c5d33d4e-6617-11e8-8b73-7b474325fb79.png)
-
-#### Home tab
-
-![discord-401](https://user-images.githubusercontent.com/4013216/53679347-a3f64780-3c99-11e9-833b-640bba0b8825.png)
-
-![discord-402](https://user-images.githubusercontent.com/4013216/53679536-95a92b00-3c9b-11e9-8c15-e71452e91df7.png)
+![discord-506](https://user-images.githubusercontent.com/4013216/123741344-df0fe200-d877-11eb-83f5-6989a45a060f.png)
 
 &nbsp;
 
