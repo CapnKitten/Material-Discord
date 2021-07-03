@@ -62,6 +62,9 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Theme
  - `--sidebar-panel-color` - The background color for the sidebar panels in the channels list. Default: `#111114` - `#d4d6d6`**
  - `--chat-color` - The background color the main chat area. Default: `#202225` - `#fff`**
  - `--avatar-radius` - The border radius of avatars, servers, and change status buttons. Default: `50%`
+ - `--tooltip-color` - The background color for tooltips. Default: `rgba(97,97,97,0.9)`
+ - `--tooltip-text-color` - The text color for tooltips. Default: `#ddd`
+ - `--tooltip-shadow` - The box shadow for tooltips. Default: `0px 5px 15px rgba(0,0,0,0.2)`
 
 #### Accent elements
  - `--accent-color` - The main accent color for the theme. Default: `#3f51b5`
