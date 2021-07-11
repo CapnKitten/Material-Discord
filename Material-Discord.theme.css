@@ -17,6 +17,8 @@
 	--accent-rgb: 94,122,199;
 	--accent-text-color: #fff;
 	--accent-button-action: #fff; /*	-	*/
+	
+	--avatar-radius: 50%; /*	-	*/
 
 	--message-radius: 19px;
 	--message-padding: 8px 12px;
