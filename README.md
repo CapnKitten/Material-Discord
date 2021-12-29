@@ -67,11 +67,10 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Theme
  - `--tooltip-shadow` - The box shadow for tooltips. Default: `0px 5px 15px rgba(0,0,0,0.2)`
 
 #### Accent elements
- - `--accent-color` - The main accent color for the theme. Default: `#3f51b5`
- - `--accent-rgb` - The accent color RGB values for elements that require an opacity. Default: `63,81,181`
+ - `--accent-hue` - The hue value for the accent color of the theme. Default: `224`
+ - `--accent-saturation` - The saturation percentage for the accent color of the theme. Default: `71%`
+ - `--accent-lightness` - The lightness percentage for the accent color of the theme. Default: `61%`
  - `--accent-button-action` - The color used for the hover and active states for accent buttons. Default: `#fff`
- - `--accent-button-action-hover` - The opacity for the accent button hover state. Default: `0.06`
- - `--accent-button-action-active` - The opacity for the accent button active state. Default: `0.12`
  - `--accent-text-color` - The text color for buttons and other various elements with the accent background color. Default: `#fff`
 
 #### Message elements
