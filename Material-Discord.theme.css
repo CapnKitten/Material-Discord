@@ -25,6 +25,11 @@
 	--message-padding: 8px 12px;
 	--message-padding-alt: 4px 12px 8px 12px; /*	-	*/
 
+	--media-radius: 19px; /*	-	*/
+
 	--card-radius: 5px;
-	--card-radius-big: 10px;
+	--card-radius-big: 10px; /*	-	*/
+
+	--popout-radius: 5px;
+	--popout-radius-big: 10px;
 }
