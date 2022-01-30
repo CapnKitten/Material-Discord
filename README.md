@@ -12,40 +12,29 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Theme
 
 ## Previews
 
-(Previews are subject to be out of date / Animations in the GIFs are sped up)
-#### Changing status
-
-![discord-status](https://user-images.githubusercontent.com/4013216/36956319-bea5497a-1ffb-11e8-862c-d8a926b1f6a1.gif)
-
-#### Changing user roles
-
-![discord-roles](https://user-images.githubusercontent.com/4013216/36956334-d69b0b82-1ffb-11e8-8860-a171d0887f5c.gif)
-
-#### Audio notification
-
-![discord-audio](https://user-images.githubusercontent.com/4013216/35309728-dc958f5c-007b-11e8-8ff7-dee70cc82e22.gif)
+(Previews are subject to be out of date)
 
 #### Main chat area
 
-![discord-501](https://user-images.githubusercontent.com/4013216/123740654-c8b55680-d876-11eb-8ca0-f27e1bc14af0.png)
+![discord-601](https://user-images.githubusercontent.com/4013216/151684062-a1f39880-f39e-410a-89e3-c0b8913c225e.png)
 
 #### User popout info
 
-![discord-502](https://user-images.githubusercontent.com/4013216/123741021-5abd5f00-d877-11eb-962c-356e6cca7819.png)
+![discord-602](https://user-images.githubusercontent.com/4013216/151684066-302585e8-4266-4c76-8eb2-af4042ba40ce.png)
 
 #### User profile
 
-![discord-503](https://user-images.githubusercontent.com/4013216/123741071-6f015c00-d877-11eb-8538-09c8f8524ace.png)
+![discord-603](https://user-images.githubusercontent.com/4013216/151684072-a67ff752-6811-4806-9a9f-24b27ee1ce02.png)
 
 #### User settings
 
-![discord-504_1](https://user-images.githubusercontent.com/4013216/123741607-580f3980-d878-11eb-9725-90e127492a49.png)
+![discord-604](https://user-images.githubusercontent.com/4013216/151684077-902a0e1f-3873-4702-9824-6fa954f37532.png)
 
-![discord-505](https://user-images.githubusercontent.com/4013216/123741465-17172500-d878-11eb-9c64-ba3177291207.png)
+![discord-605](https://user-images.githubusercontent.com/4013216/151684081-88791d51-61f5-4cf8-a89b-591cfadef3df.png)
 
 #### DMs
 
-![discord-506](https://user-images.githubusercontent.com/4013216/123741344-df0fe200-d877-11eb-83f5-6989a45a060f.png)
+![discord-606](https://user-images.githubusercontent.com/4013216/151684087-a6a29ce8-4939-4964-b427-2ef5c60618f3.png)
 
 &nbsp;
 
