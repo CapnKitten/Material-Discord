@@ -64,7 +64,8 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Theme
 
 #### Message elements
  - `--message-color` - The background color for message bubbles. Default: `#292d30` - `#edeff0`**
- - `--message-color-alt` - An alternative background color for message bubbles. Default: `#1c1e21` - `#e8e8e8`**
+ - `--message-color-hover` - The hover background color for message bubbles. Default: `#303438` - `#e1e2e3`**
+ - `--message-color-alt` - An alternative background color for message bubbles in areas like pinned messages. Default: `#1c1e21` - `#e8e8e8`**
  - `--message-radius` - The border radius for the message bubbles. Default: `19px`
  - `--message-padding-top` - The top and bottom padding of message bubbles. Default: `8px`
  - `--message-padding-side` - The side padding of message bubbles. Default: `12px`
