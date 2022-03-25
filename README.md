@@ -47,7 +47,7 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Theme
  - `--main-color` - The background color for main content areas like in the settings menu. Default: `#16171a` - `#e8eaeb`**
  - `--main-alt` - An alternative background color for main content areas. Default: `#0f1012` - `#ddd`**
  - `--server-color` - The background color for the servers list. Default: `#232327` - `#eee`**
- - `--status-picker-color` - The background color for the status picker popout. Default: `#181a1d` - `#dee0e0`**
+ - `--status-picker-color` - The background color for the status area with the settings button. Default: `#181a1d` - `#dee0e0`**
  - `--sidebar-panel-color` - The background color for the sidebar panels in the channels list. Default: `#111114` - `#d4d6d6`**
  - `--chat-color` - The background color the main chat area. Default: `#202225` - `#fff`**
  - `--avatar-radius` - The border radius of avatars, servers, and change status buttons. Default: `50%`
