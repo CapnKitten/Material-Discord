@@ -22,8 +22,8 @@
 	--avatar-radius: 50%; /*	-	*/
 
 	--message-radius: 19px;
-	--message-padding: 8px 12px;
-	--message-padding-alt: 4px 12px 8px 12px; /*	-	*/
+	--message-padding-top: 8px;
+	--message-padding-side: 12px; /*	-	*/
 
 	--media-radius: 19px; /*	-	*/
 
