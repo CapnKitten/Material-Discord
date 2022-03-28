@@ -33,3 +33,13 @@
 	--popout-radius: 5px;
 	--popout-radius-big: 10px;
 }
+
+.theme-dark {
+	--saturation-modifier: 0.175;
+	--lightness-modifier: 0.2;
+}
+
+.theme-light {
+	--saturation-modifier: 0.4;
+	--lightness-modifier: 2.175;
+}
