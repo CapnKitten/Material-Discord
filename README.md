@@ -134,7 +134,7 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Theme
 [github-url]: https://github.com/sponsors/CapnKitten
 
 [download-logo]: https://img.shields.io/static/v1?label=Download&message=Theme&style=flat&color=blue
-[download-url]: https://capnkitten.github.io/BetterDiscord/Download/?theme=Material-Discord
+[download-url]: https://betterdiscord.app/theme/MaterialDiscord
 
 [discord-logo]: https://img.shields.io/static/v1?label=Discord&message=Server&style=flat&logo=discord&color=blue
 [discord-url]: https://discord.gg/jzJkA6Z
