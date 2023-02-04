@@ -3,7 +3,7 @@
  * @version 3.0.4
  * @description A theme based on Google's Material Design
  * @author CapnKitten
- * 
+ *
  * @website http://github.com/CapnKitten
  * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Material-Discord/css/source.css
  * @donate https://paypal.me/capnkitten
@@ -18,7 +18,7 @@
 	--accent-lightness: 61%;
 	--accent-text-color: #fff;
 	--accent-button-action: #fff; /*	-	*/
-	
+
 	--avatar-radius: 50%; /*	-	*/
 
 	--message-radius: 19px;
@@ -27,19 +27,9 @@
 
 	--media-radius: 19px; /*	-	*/
 
-	--card-radius: 5px;
-	--card-radius-big: 10px; /*	-	*/
+	--card-radius: 8px;
+	--card-radius-big: 18px; /*	-	*/
 
-	--popout-radius: 5px;
-	--popout-radius-big: 10px;
-}
-
-.theme-dark {
-	--saturation-modifier: 0.175;
-	--lightness-modifier: 0.2;
-}
-
-.theme-light {
-	--saturation-modifier: 0.4;
-	--lightness-modifier: 2.175;
+	--popout-radius: 8px;
+	--popout-radius-big: 18px;
 }
