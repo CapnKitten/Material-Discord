@@ -1,10 +1,17 @@
-# Material Discord Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url] [![Download][download-logo]][download-url]
+# Material Discord Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
 #### A theme based on Google's Material Design
 <hr>
 
 Current version: v3.0.4 (24/01/2022)
 
+[BetterDiscord download](https://betterdiscord.app/theme/MaterialDiscord)
+<br>
 [View add-on themes](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Material-Discord/css/addons)
+
+Vencord link
+```
+https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css
+```
 
 ## Previews
 
@@ -114,17 +121,6 @@ Current version: v3.0.4 (24/01/2022)
  - `--scrollbar-color` - The background color for scrollbars. Default: `255,255,255` - `0,0,0`**
 
 ** **Indicates that it has two values for both the dark and light themes of Discord. Instead of using `:root`, use `.theme-dark` or `.theme-light`.**
-
-&nbsp;
-
-## Changelog
-
-#### v3.0.3 (24/02/2021)
-* Font changed to Google Sans
-* Delete message modal updated
-
-
-[View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Material-Discord/changelog.md)
 
 [paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
 [paypal-url]: https://paypal.me/capnkitten
