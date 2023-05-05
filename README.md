@@ -39,8 +39,6 @@ https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.cs
 
 ![discord-706](https://user-images.githubusercontent.com/4013216/216792463-a2472c19-21bd-48e0-beba-05d092c715dc.png)
 
-&nbsp;
-
 ## Variables
 
 ** **Indicates that it has two values for both the dark and light themes of Discord. Instead of using `:root`, use `.theme-dark` or `.theme-light`.**
@@ -119,8 +117,6 @@ https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.cs
  - `--md-ripple-color` - The color of the ripple effect. Default: `255,255,255` - `0,0,0`**
  - `--emoji-category-header` - The background color for the headers in the emoji panel. Default: `rgba(44,47,51,0.95)` - `rgba(255,255,255,0.9)`**
  - `--scrollbar-color` - The background color for scrollbars. Default: `255,255,255` - `0,0,0`**
-
-** **Indicates that it has two values for both the dark and light themes of Discord. Instead of using `:root`, use `.theme-dark` or `.theme-light`.**
 
 [paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
 [paypal-url]: https://paypal.me/capnkitten
