@@ -12,6 +12,9 @@
 
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css);
 
+/* Material You addon */
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css);
+
 :root {
 	--accent-hue: 224;
 	--accent-saturation: 71%;
