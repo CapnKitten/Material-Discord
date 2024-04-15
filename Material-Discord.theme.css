@@ -15,24 +15,71 @@
 /* Material You addon */
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css);
 
+/* MATERIAL YOU DARK THEME SETTINGS */
+.theme-dark {
+    --saturation-modifier: 0.31;
+    --lightness-modifier: 0.225;
+}
+
+/* MATERIAL YOU LIGHT THEME SETTINGS */
+.theme-light {
+    --saturation-modifier: 0.74;
+    --lightness-modifier: 2.125;
+}
+
 :root {
-	--accent-hue: 224;
+	/* ACCENT HSL AND TEXT COLOR SETTINGS */
+	--accent-hue: 227;
 	--accent-saturation: 71%;
 	--accent-lightness: 61%;
-	--accent-text-color: #fff;
-	--accent-button-action: #fff; /*	-	*/
+	--accent-text-color: hsl(0,0%,100%); /* DOES NOTHING WITH MATERIAL YOU ENABLED */
+	--accent-button-action: hsl(0,0%,100%);
 
-	--avatar-radius: 50%; /*	-	*/
+	/* ALERT HSL AND TEXT COLOR SETTINGS */
+	--alert-hue: 0;
+    --alert-saturation: 85%;
+    --alert-lightness: 61%;
+	--alert-text-color: hsl(0,0%,100%); /* DOES NOTHING WITH MATERIAL YOU ENABLED */
 
-	--message-radius: 19px;
+	/* WARNING HSL AND TEXT COLOR SETTINGS*/
+	--warning-hue: 40;
+    --warning-saturation: 86.4%;
+    --warning-lightness: 56.9%;
+	--warning-text-color: hsl(0,0%,100%); /* DOES NOTHING WITH MATERIAL YOU ENABLED */
+
+	/* MESSAGE SETTINGS */
+	--message-radius: 18px;
 	--message-padding-top: 8px;
-	--message-padding-side: 12px; /*	-	*/
+	--message-padding-side: 12px;
 
-	--media-radius: 19px; /*	-	*/
+	/* MESSAGE MEDIA SETTINGS */
+	--media-radius: 10px;
 
+	/* CARD SETTINGS */
 	--card-radius: 8px;
-	--card-radius-big: 18px; /*	-	*/
+	--card-radius-big: 18px;
 
+	/* BUTTON SETTINGS */
+	--button-height: 36px;
+	--button-padding: 0 24px;
+	--button-action-color: hsl(0,0%,100%);
+
+	/* INPUT SETTINGS */
+	--input-height: 36px;
+	--input-padding: 0 12px;
+
+	/* POPOUT AND MODAL SETTINGS */
 	--popout-radius: 8px;
 	--popout-radius-big: 18px;
+
+	/* TOOLTIP SETTINGS */
+	--tooltip-color: hsl(0,0%,38%,0.9);
+	--tooltip-text-color: hsl(0,0%,87%);
+	--tooltip-font-size: 12px;
+	--tooltip-padding: 8px;
+	--tooltip-radius: 8px;
+
+	/* SCROLLBAR SETTINGS */
+	--scrollbar-width: 10px;
+	--scrollbar-thin-width: 6px;
 }
