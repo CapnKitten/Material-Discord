@@ -1,6 +1,6 @@
 /**
  * @name Material Discord
- * @version 3.0.4
+ * @version 3.0.5
  * @description A theme based on Google's Material Design
  * @author CapnKitten
  *
@@ -19,12 +19,14 @@
 .theme-dark {
     --saturation-modifier: 0.31;
     --lightness-modifier: 0.225;
+    --text-lightness-modifier: 1.0;
 }
 
 /* MATERIAL YOU LIGHT THEME SETTINGS */
 .theme-light {
     --saturation-modifier: 0.74;
     --lightness-modifier: 2.125;
+    --text-lightness-modifier: 1.0;
 }
 
 :root {
