@@ -52,7 +52,7 @@ https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.cs
  - `--status-picker-color` - The background color for the status area with the settings button. Default: `#181a1d` - `#dee0e0`**
  - `--sidebar-panel-color` - The background color for the sidebar panels in the channels list. Default: `#111114` - `#d4d6d6`**
  - `--chat-color` - The background color the main chat area. Default: `var(--main-color)`
- - `--avatar-radius` - The border radius of avatars, servers, and change status buttons. Default: `24px`
+ - `--avatar-radius` - The border radius of avatars and servers. Default: `28px`
  - `--tooltip-color` - The background color for tooltips. Default: `rgba(97,97,97,0.9)`
  - `--tooltip-text-color` - The text color for tooltips. Default: `#ddd`
  - `--tooltip-shadow` - The box shadow for tooltips. Default: `0px 5px 15px rgba(0,0,0,0.2)`
@@ -115,7 +115,6 @@ https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.cs
 
 #### Various elements
  - `--md-ripple-color` - The color of the ripple effect. Default: `255,255,255` - `0,0,0`**
- - `--emoji-category-header` - The background color for the headers in the emoji panel. Default: `rgba(44,47,51,0.95)` - `rgba(255,255,255,0.9)`**
  - `--scrollbar-color` - The background color for scrollbars. Default: `255,255,255` - `0,0,0`**
 
 [paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
