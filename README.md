@@ -52,7 +52,7 @@ https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.cs
  - `--status-picker-color` - The background color for the status area with the settings button. Default: `#181a1d` - `#dee0e0`**
  - `--sidebar-panel-color` - The background color for the sidebar panels in the channels list. Default: `#111114` - `#d4d6d6`**
  - `--chat-color` - The background color the main chat area. Default: `var(--main-color)`
- - `--avatar-radius` - The border radius of avatars and servers. Default: `28px`
+ - `--avatar-radius` - The border radius of avatars and servers. Default: `24px`
  - `--tooltip-color` - The background color for tooltips. Default: `rgba(97,97,97,0.9)`
  - `--tooltip-text-color` - The text color for tooltips. Default: `#ddd`
  - `--tooltip-shadow` - The box shadow for tooltips. Default: `0px 5px 15px rgba(0,0,0,0.2)`
