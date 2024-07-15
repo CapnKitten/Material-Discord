@@ -19,25 +19,25 @@ https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.cs
 
 #### Main chat area
 
-![discord-701](https://user-images.githubusercontent.com/4013216/216792441-cc02a2fc-d175-432d-af75-81975d75e65e.png)
+![discord-801](https://github.com/user-attachments/assets/11b835a5-01ee-45fc-9bb5-827950d0e8a5)
 
 #### User popout info
 
-![discord-702](https://user-images.githubusercontent.com/4013216/216792443-04fe70f0-0cd7-4d98-bb49-c937415c53d0.png)
+![discord-802](https://github.com/user-attachments/assets/90fbb99b-49cc-45c1-866f-d94f33ad32dd)
 
 #### User profile
 
-![discord-703](https://user-images.githubusercontent.com/4013216/216792451-676c4d76-6138-42c3-8ce2-3ee76cb82abf.png)
+![discord-803](https://github.com/user-attachments/assets/34f16046-8f61-49da-b0ee-f34c68896931)
 
 #### User settings
 
-![discord-704](https://user-images.githubusercontent.com/4013216/216792456-36074914-4cb8-4c0b-aa07-74d09e274bcf.png)
+![discord-804](https://github.com/user-attachments/assets/6fb817ef-4bdb-4d44-9d8b-770b08a51721)
 
-![discord-705](https://user-images.githubusercontent.com/4013216/216792461-30509d7f-30c1-4d31-b4e0-9be858723cfd.png)
+![discord-805](https://github.com/user-attachments/assets/7243e737-9aab-4a94-9cac-41ab20515008)
 
 #### DMs
 
-![discord-706](https://user-images.githubusercontent.com/4013216/216792463-a2472c19-21bd-48e0-beba-05d092c715dc.png)
+![discord-806](https://github.com/user-attachments/assets/a5e24ed7-f41e-4076-99f6-071d34d662f6)
 
 ## Variables
 
