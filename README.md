@@ -72,10 +72,10 @@ https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.cs
  - `--alert-text-color` - The text color for various elements with the alert background color. Default: `hsl(0,0%,100%)`
 
 #### Warning elements
- - `--warning-hue` - The hue value for various elements that use the warning color. Default: `40`
- - `--warning-saturation` - The saturation percentage for various elements that use the warning color. Default: `86.4%`
- - `--warning-lightness` - The lightness percentage for various elements that use the warning color. Default: `56.9%`
- - `--warning-text-color` - The text color for various elements with the warning background color. Default: `hsl(0,0%,100%)`
+ - `--warning-hue` - The hue value for various elements that use the warning color. Default: `44`**
+ - `--warning-saturation` - The saturation percentage for various elements that use the warning color. Default: `71%`**
+ - `--warning-lightness` - The lightness percentage for various elements that use the warning color. Default: `61%`**
+ - `--warning-text-color` - The text color for various elements with the warning background color. Default: `hsl(0,0%,100%)`**
 
 #### Message elements
  - `--message-color` - The background color for message bubbles. Default: `hsl(216,7%,14%)` - `hsl(210,4%,90%)`**
