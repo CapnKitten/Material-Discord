@@ -45,6 +45,12 @@ https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.cs
 
 ** **Indicates that it has two values for both the dark and light themes of Discord. Instead of using `:root`, use `.theme-dark` or `.theme-light`.**
 
+#### Material You
+ - `--saturation-modifier` - The value that controls the saturation for the entire ui, including buttons. Default: `0.31` - `0.74`**
+ - `--lightness-modifier` - The value that controls the lightness for the entire ui, including buttons. Default: `0.225` - `2.125`**
+ - `--text-lightness-modifier` - The value that controls the text lightness. Default: `1.0` - `1.0`**
+ - `--ui-darkness-modifier` - The value that controls the darkness for the entire ui, excluding buttons and is __*ONLY*__ for the dark theme. Default: `1.0`**
+
 #### App elements
  - `--app-font` - The font used throughout the entire theme. The font must either be installed or imported. Default: `"Google Sans"`
  - `--app-bg` - The background for the entire Discord app. Default: `var(--main-alt)`
