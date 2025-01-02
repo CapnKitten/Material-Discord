@@ -17,16 +17,17 @@
 
 /* MATERIAL YOU DARK THEME SETTINGS */
 .theme-dark {
-    --saturation-modifier: 0.31;
-    --lightness-modifier: 0.225;
-    --text-lightness-modifier: 1.0;
+	--saturation-modifier: 0.31;
+	--lightness-modifier: 0.225;
+	--text-lightness-modifier: 1.0;
+	--ui-darkness-modifier: 1.0;
 }
 
 /* MATERIAL YOU LIGHT THEME SETTINGS */
 .theme-light {
-    --saturation-modifier: 0.74;
-    --lightness-modifier: 2.125;
-    --text-lightness-modifier: 1.0;
+	--saturation-modifier: 0.74;
+	--lightness-modifier: 2.125;
+	--text-lightness-modifier: 1.0;
 }
 
 :root {
@@ -39,14 +40,14 @@
 
 	/* ALERT HSL AND TEXT COLOR SETTINGS */
 	--alert-hue: 0;
-    --alert-saturation: 85%;
-    --alert-lightness: 61%;
+	--alert-saturation: 85%;
+	--alert-lightness: 61%;
 	--alert-text-color: hsl(0,0%,100%); /* DOES NOTHING WITH MATERIAL YOU ENABLED */
 
 	/* WARNING HSL AND TEXT COLOR SETTINGS*/
 	--warning-hue: 40;
-    --warning-saturation: 86.4%;
-    --warning-lightness: 56.9%;
+	--warning-saturation: 86.4%;
+	--warning-lightness: 56.9%;
 	--warning-text-color: hsl(0,0%,100%); /* DOES NOTHING WITH MATERIAL YOU ENABLED */
 
 	/* MESSAGE SETTINGS */
