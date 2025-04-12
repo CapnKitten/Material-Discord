@@ -136,7 +136,7 @@ https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.cs
 
 #### Various elements
  - `--md-ripple-color` - The color of the ripple effect. Default: `0,100%,100%` - `0,0%,0%`**
- - `--scrollbar-color` - The background color for scrollbars. Default: `255,255,255` - `0,0,0`**
+ - `--scrollbar-color` - The background color for scrollbars. Default: `hsl(0,0%,82%)` - `hsl(0,0%,10%)`**
 
 [paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
 [paypal-url]: https://paypal.me/capnkitten
