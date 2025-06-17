@@ -6,6 +6,8 @@ Current version: v3.0.4 (24/01/2022)
 
 [BetterDiscord download](https://betterdiscord.app/theme/MaterialDiscord)
 <br>
+[Material Discord Customization plugin](https://github.com/CapnKitten/BetterDiscord/tree/master/Plugins/MaterialDiscordCustomization)
+
 [View add-on themes](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Material-Discord/css/addons)
 <br>
 [View source files](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Material-Discord)
