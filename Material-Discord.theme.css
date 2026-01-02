@@ -1,6 +1,6 @@
 /**
  * @name Material Discord
- * @version 3.0.5
+ * @version 3.0.6
  * @description A theme based on Google's Material Design
  * @author CapnKitten
  *
@@ -10,24 +10,26 @@
  * @invite jzJkA6Z
  */
 
-@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css);
+@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css");
+@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/icons.css");
+@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css");
+@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans-code.css");
 
 /* Material You addon */
-@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css);
+@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css");
 
 /* MATERIAL YOU DARK THEME SETTINGS */
 .theme-dark {
-	--saturation-modifier: 0.31;
-	--lightness-modifier: 0.225;
-	--text-lightness-modifier: 1.0;
-	--ui-darkness-modifier: 1.0;
+    --saturation-modifier: 0.31;
+    --lightness-modifier: 0.225;
+    --text-lightness-modifier: 1.0;
 }
 
 /* MATERIAL YOU LIGHT THEME SETTINGS */
 .theme-light {
-	--saturation-modifier: 0.74;
-	--lightness-modifier: 2.125;
-	--text-lightness-modifier: 1.0;
+    --saturation-modifier: 0.74;
+    --lightness-modifier: 2.125;
+    --text-lightness-modifier: 1.0;
 }
 
 :root {
@@ -40,14 +42,14 @@
 
 	/* ALERT HSL AND TEXT COLOR SETTINGS */
 	--alert-hue: 0;
-	--alert-saturation: 85%;
-	--alert-lightness: 61%;
+    --alert-saturation: 85%;
+    --alert-lightness: 61%;
 	--alert-text-color: hsl(0,0%,100%); /* DOES NOTHING WITH MATERIAL YOU ENABLED */
 
-	/* WARNING HSL AND TEXT COLOR SETTINGS*/
+	/* WARNING HSL AND TEXT COLOR SETTINGS */
 	--warning-hue: 40;
-	--warning-saturation: 86.4%;
-	--warning-lightness: 56.9%;
+    --warning-saturation: 86.4%;
+    --warning-lightness: 56.9%;
 	--warning-text-color: hsl(0,0%,100%); /* DOES NOTHING WITH MATERIAL YOU ENABLED */
 
 	/* MESSAGE SETTINGS */
@@ -63,13 +65,13 @@
 	--card-radius-big: 18px;
 
 	/* BUTTON SETTINGS */
-	--button-height: 36px;
-	--button-padding: 0 24px;
+	--button-height: 40px;
+	--button-padding: 16px;
 	--button-action-color: hsl(0,0%,100%);
 
 	/* INPUT SETTINGS */
-	--input-height: 36px;
-	--input-padding: 0 12px;
+	--input-height: 40px;
+	--input-padding: 12px;
 
 	/* POPOUT AND MODAL SETTINGS */
 	--popout-radius: 8px;
