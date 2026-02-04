@@ -1,6 +1,6 @@
 /**
  * @name Material Discord
- * @version 3.0.6
+ * @version 3.0.7
  * @description A theme based on Google's Material Design
  * @author CapnKitten
  *
@@ -30,6 +30,11 @@
 }
 
 :root {
+    /* APP FONT SETTINGS */
+    --app-font: "Google Sans Flex";
+    --app-font-width: 100;
+    --app-font-roundness: 100;
+
 	/* ACCENT HSL AND TEXT COLOR SETTINGS */
 	--accent-hue: 227;
 	--accent-saturation: 71%;
